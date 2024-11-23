@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Wrangler
+.wrangler/
+
+# Large binary files
+test-agents/node_modules/@cloudflare/workerd-linux-64/bin/workerd
