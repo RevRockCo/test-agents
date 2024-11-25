@@ -9,5 +9,13 @@
   },
   "devDependencies": {
     "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "@cloudflare/ai": "^1.2.2",
+    "@cloudflare/kv-asset-handler": "^0.3.4",
+    "cloudflare": "^3.5.0",
+    "crewai": "^1.0.1",
+    "googleapis": "^144.0.0",
+    "hono": "^4.6.11"
   }
 }
